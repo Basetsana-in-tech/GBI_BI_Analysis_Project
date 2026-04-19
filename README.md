@@ -43,7 +43,30 @@ A professional web application showcasing Global Bike Inc.'s (GBI) strategic per
 - **Deployment**: GitHub Pages / Vercel ready
 - **Version Control**: Git with GitHub
 
-## 🚀 Quick Start
+## � Data Files & Resources
+
+This repository includes the complete dataset and Tableau workbook for full data exploration:
+
+### Files Available:
+- **`GBI_AnalyticsData.xlsx`** - Complete Excel dataset containing:
+  - Sales transactions and revenue data
+  - Product performance metrics
+  - Geographic distribution data
+  - Financial performance indicators
+  - Customer segmentation data
+
+- **`GBI_data analysis.twbx`** - Tableau Workbook featuring:
+  - All dashboard visualizations used in the web application
+  - Interactive charts and graphs
+  - Data connections and calculated fields
+  - Complete analytical framework
+
+### How to Access:
+1. Download the files directly from the repository
+2. Open `GBI_data analysis.twbx` in Tableau Desktop for full interactivity
+3. Use `GBI_AnalyticsData.xlsx` for custom analysis or integration
+
+## �🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18+ and npm
